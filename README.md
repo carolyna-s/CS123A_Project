@@ -25,3 +25,7 @@ After a user mounts to Google Drive, change the file path to where “projectmet
 m = __import__("mnt/MyDrive/Colab Notebooks/projectmethods")
 ```
 After this, cells should be run sequentially. 
+
+Direct Colab Links:
+[Methods](https://drive.google.com/file/d/1prman9q1CZCx0gpYhavnyT69w2nbG-bk/view?usp=sharing)
+[Project](https://drive.google.com/file/d/1DvpDZPJt-LhMxwx35Xh4dCnguonqPdDe/view?usp=sharing) 
