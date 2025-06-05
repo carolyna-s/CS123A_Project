@@ -1,7 +1,7 @@
 # Machine Learning & Analysis on OSD-47 & OSD-48 Datasets 
 
 ## About this project: 
-This project studies OSD-47 and OSD-48 datasets. The datasets are from NASA’s Open Space Data Repository (OSDR). OSD-47 was studying microgravity effects on muscle wasting, while OSD-48 was for studying systemic responses. 
+This project studies [OSD-47](https://osdr.nasa.gov/bio/repo/data/studies/OSD-47) and [OSD-48](https://osdr.nasa.gov/bio/repo/data/studies/OSD-48) datasets. The datasets are from NASA’s Open Space Data Repository (OSDR). OSD-47 studied microgravity effects on muscle wasting, while OSD-48 studied spaceflight effects on systemic responses. 
 
 Why study mice? Mice and humans have similar gene counts and functions. Performing experiments on mice may give insight on how treatments or certain conditions may affect humans. Some genes are orthogonal between mice and humans, meaning that they originated from a common ancestor and were separated by a speciation event. These genes would be of similar function. If some of these genes are affected by spaceflight, studying them would give insight on how spaceflight may impact humans. 
 
